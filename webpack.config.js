@@ -45,7 +45,7 @@ module.exports = env => {
       extensions: ['.ts', '.tsx', '.js', '.json'],
       alias: {
         'react-dom': '@hot-loader/react-dom',
-        '@': path.join(__dirname, './src')
+        '~': path.join(__dirname, './src')
       }
     },
 
@@ -72,7 +72,7 @@ module.exports = env => {
       new CleanWebpackPlugin(),
       new webpack.DefinePlugin(envKeys),
       new HtmlWebpackPlugin({
-        template: path.join(__dirname, './public', 'index.html'),
+        template: path.join(__dirname, './public', 'index.html')
       }),
       new ForkTsCheckerWebpackPlugin({
         tsconfig: path.resolve(__dirname, './tsconfig.build.json')
