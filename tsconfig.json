@@ -14,7 +14,6 @@
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
-    "noEmit": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "preserveConstEnums": true,
