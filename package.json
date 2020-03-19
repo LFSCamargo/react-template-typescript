@@ -5,9 +5,7 @@
   "author": "LFSCamargo",
   "license": "ISC",
   "scripts": {
-    "build:local": "scripty",
     "build:development": "scripty",
-    "build:qa": "scripty",
     "build:staging": "scripty",
     "build:production": "scripty",
     "start": "scripty",
