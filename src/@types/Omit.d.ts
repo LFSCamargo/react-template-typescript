@@ -1,5 +1,4 @@
 /**
- * Omite as propriedades `K` do objeto `T`.
  * @example
  * type A = { a: number, b: number, c: number };
  *
