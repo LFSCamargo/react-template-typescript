@@ -1,13 +1,14 @@
 # React Template Typescript
 
+A very simple template for typescript and react
+
 <img src="https://miro.medium.com/max/1024/1*Ukhx76VQ8E6JXEW7xfIzSA.png">
 
 ---
 
 ### Get started to the project
 
-A very simple boilerplate made entirely ejected with typescript and webpack!
-How to run
+Here's how you can get started to the project here!
 
 ```
 1. Clone the repo
