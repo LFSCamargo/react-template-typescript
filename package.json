@@ -1,8 +1,8 @@
 {
-  "name": "@ben/backoffice-pedido-front",
+  "name": "react-template-typescript",
   "version": "1.0.0",
-  "description": "Ben backoffice pedido front-end",
-  "author": "Ben Visa Vale",
+  "description": "React Template Typescript very simple template",
+  "author": "LFSCamargo",
   "license": "ISC",
   "scripts": {
     "build:local": "scripty",
